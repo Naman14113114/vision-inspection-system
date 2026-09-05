@@ -1,0 +1,11 @@
+path: data/processed/rgb_defects
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: scratch
+  1: Black Marker
+  2: Corner Defect
+  3: Side Defect
