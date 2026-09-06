@@ -13,3 +13,8 @@ data/processed/
 data/splits/
 
 outputs/
+# Model weights
+*.pt
+
+# Ultralytics experiment outputs
+runs/
